@@ -1,4 +1,4 @@
 # On-transferability-in-SER
 
 
-TBA
+Repository shall be updated by the time of the conference.
