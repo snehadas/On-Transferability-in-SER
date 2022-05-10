@@ -3,7 +3,8 @@
 This is the official repository of 
 "[Towards Transferable Speech Emotion Representation: On loss functions for cross-lingual latent representations](https://arxiv.org/abs/2203.14865)", Sneha Das et al. 2022
 
-![Figure](https://github.com/DTUComputeStatisticsAndDataAnalysis/Continuous-Metric-Learning-For-Transferable-Speech-Emotion-Recognition-and-Embedding/blob/main/figures/Screenshot%20from%202022-05-10%2016-54-16.png?raw=true)
+![Figure1](https://github.com/snehadas/On-transferability-in-SER/blob/main/figures/scatter.png?raw=true)
+![Figure2](https://github.com/snehadas/On-transferability-in-SER/blob/main/figures/scatter.png?raw=true)
 
 ### What is this repository for? ###
 
